@@ -20,9 +20,10 @@ Identified departments with high average salaries and employees earning above co
 
 ## Screenshots 
 
-### Tables overview (HR schema) 
+### Tables overview (HR EMPLOYEES) 
 ![HR Employees Table](screenshots/tables_hr_employees.png) 
 
+### Tables overview (HR DEPARTMENTS) 
 ![HR Departments Table](screenshots/tables_hr_departments.png) 
 
 ### Salary above company average 

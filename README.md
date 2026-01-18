@@ -18,17 +18,17 @@ Identified departments with high average salaries and employees earning above co
 
 
 
-
 ## Screenshots 
 
-### HR Tables 
-![HR Tables](screenshots/tables_hr.png) 
+### Tables overview (HR schema) 
+![HR Employees Table](screenshots/tables_hr_employees.png) 
+![HR Departments Table](screenshots/tables_hr_departments.png) 
 
-### Employees and Departments (JOIN) 
-![Employees Departments](screenshots/employees_departments_join.png) 
+### Salary above company average 
+![Salary Above Average](screenshots/salary_above_average.png) 
 
-### Average Salary by Department 
-![Average Salary](screenshots/avg_salary_by_department.png) 
+### Average salary by department 
+![Average Salary by Department](screenshots/avg_salary_by_department.png) 
 
-### Employees with Salary Above Average 
-![Above Average Salary](screenshots/salary_above_average.png)
+### Employees and departments (LEFT JOIN) 
+![Employees Departments Join](screenshots/employees_departments_join.png)

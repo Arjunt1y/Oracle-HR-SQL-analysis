@@ -38,7 +38,7 @@ Task 3.
    Which employees earn above the company average salary? :
   
 SELECT
-   FIRST_name,
+   FIRST_NAME,
    LAST_NAME,
    SALARY
 FROM
